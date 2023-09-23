@@ -3,7 +3,7 @@ import csv
 import matplotlib.pyplot as plt 
 from datetime import datetime
 
-# modifica esempio
+# modifica esempio 2
 FILE_NAME = "patrimonio.csv"
 
 CATEGORIES = {

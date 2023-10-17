@@ -7,8 +7,6 @@ from datetime import datetime
 FILE_NAME = "patrimonio.csv"
 print("ciao...")
 
-print("CIAO DA DAVIDE")
-
 CATEGORIES = {
     "LIQUIDITÀ": {
         "Conto Corrente Intesa San Paolo": 0,

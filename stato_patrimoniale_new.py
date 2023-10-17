@@ -5,9 +5,6 @@ from datetime import datetime
 
 # modifica esempio 2
 FILE_NAME = "patrimonio.csv"
-print("ciao...")
-
-print("CIAO DA")
 
 CATEGORIES = {
     "LIQUIDITÀ": {

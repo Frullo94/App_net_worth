@@ -6,6 +6,8 @@ from datetime import datetime
 # modifica esempio 2
 FILE_NAME = "patrimonio.csv"
 
+print("CIAO DA DAVIDE")
+
 CATEGORIES = {
     "LIQUIDITÀ": {
         "Conto Corrente Intesa San Paolo": 0,
